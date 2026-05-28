@@ -10,7 +10,6 @@ Computer Science Engineering Student | AIML Enthusiast | Web Developer | Network
 
 - 🎓 Computer Science Engineering Student
 - 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌐 Building modern Web Development projects
 - 📡 Interested in Networking and emerging technologies
 - 💻 Passionate about coding, problem solving, and innovation
 - 🚀 Continuously learning and improving technical skills
