@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshitha</h1>
+<h1 align="center">Hi 👋, I'm Harshitha VJ</h1>
 
 <h3 align="center">
 Computer Science Engineering Student | AIML Enthusiast | Web Developer | Networking Learner
